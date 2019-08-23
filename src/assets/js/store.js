@@ -1,5 +1,5 @@
-import Vue from 'vue';
-// import vuex from 'vuex';
+/*import Vue from 'vue';
+import vuex from 'vuex';
 Vue.use(vuex);
 let store = new vuex.Store({
 	state:{
@@ -12,4 +12,4 @@ let store = new vuex.Store({
 	    websockNum:0
 	}
 })
-export default store
+export default store*/

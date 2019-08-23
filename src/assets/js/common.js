@@ -1,8 +1,6 @@
 import Vue from 'vue';
 import store from './store.js';
 let v = new Vue();
-const key = CryptoJS.enc.Utf8.parse('yYkJ4612699ZlXj'); 
-const iv = CryptoJS.enc.Utf8.parse('yYkJ4612699ZlXj');
 //只能输入数字
 Vue.prototype.$Num=(val)=>{
 	return val.replace(/[^\d]/g,'');//.replace(/[^0-9.]/g,'')
